@@ -207,10 +207,8 @@ body {
 .creator {
   font-size: 15rem;
   text-align: center;
-  height: 90vh;
-  line-height: 90vh;
   color: #fcedd8;
-  background: #d52e3f;
+  /* background: #d52e3f; */
   font-family: "Niconne", cursive;
   font-weight: 700;
   text-shadow: 5px 5px 0px #eb452b, 10px 10px 0px #efa032, 15px 15px 0px #46b59b,
@@ -225,7 +223,7 @@ p {
 }
 
 a {
-  color: #d52e3f;
+  color: #d9d9d9;
   text-decoration: none;
   font-family: "Niconne", cursive;
   font-size: 1.2rem;
